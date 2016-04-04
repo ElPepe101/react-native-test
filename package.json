@@ -1,0 +1,24 @@
+{
+  "name": "reactnativetest",
+  "version": "0.0.1",
+  "description": "React native test for iOS",
+  "private": true,
+  "author": "Antonio \"ElPepe\" Segoviano aunsoyjoven {at} hotmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "keywords": [
+    "reactjs",
+    "native",
+    "ios",
+    "webpack",
+    "nodejs",
+    "es6",
+    "test"
+  ],
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.22.2"
+  }
+}
