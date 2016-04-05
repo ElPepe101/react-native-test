@@ -4,11 +4,13 @@
  */
 
 import React, {AppRegistry, Component} from 'react-native'
-import Hello from './components/Hello.ios'
+// import Hello from './components/Hello.ios'
+import Movies from './components/Movies.ios'
 
 class reactnativetest extends Component {
   render () {
-    return <Hello />
+    // return <Hello />
+    return <Movies />
   }
 }
 
